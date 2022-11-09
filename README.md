@@ -1,0 +1,2 @@
+# Day_66_mapping_data_to_components_practice_emojipedia
+Created with CodeSandbox
